@@ -18,4 +18,6 @@ Ideas:
 Dec 2019 update:
 
 1. HCI AI applications with Prof. Harvard / Technion.
+ - on a similar note, there's Pedro from UoC, that works on a tangible.
+ - automated discovery? Matt's thesis?
 2. NLP - nature VS narture Chomski stuff.
