@@ -21,5 +21,7 @@ Dec 2019 update:
  - on a similar note, there's Pedro from UoC, that works on a tangible.
  - Automated discovery? Matt's thesis?  that could be knowledge graph creation, (bitcoin?).
  
+ - the graph creation part is banal. But, the applications an creation is novel.in the sense that it's never been done in science. - What does that mean? Open-source Palantir stuff for scientists. 
+ 
  
 2. NLP - nature VS narture Chomski stuff.
