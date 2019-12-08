@@ -11,3 +11,11 @@ Ideas:
 
 
 4. Multi-data-silo-learning - globus 
+
+---------------------------------------------------------------------------------------------------------
+
+
+Dec 2019 update:
+
+1. HCI AI applications with Prof. Harvard / Technion.
+2. NLP - nature VS narture Chomski stuff.
