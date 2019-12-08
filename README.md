@@ -29,3 +29,5 @@ Dec 2019 update:
  - Facebook? no
  
 2. NLP - nature VS narture Chomski stuff.
+
+3. Wikipedia - information flow - testing ground.
