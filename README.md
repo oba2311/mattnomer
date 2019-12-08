@@ -23,5 +23,9 @@ Dec 2019 update:
  
  - the graph creation part is banal. But, the applications an creation is novel.in the sense that it's never been done in science. - What does that mean? Open-source Palantir stuff for scientists. 
  
+ Data: 
+ - Readit - downloadable.
+ - Twitter - most of twitter can be downloaded? API
+ - Facebook? no
  
 2. NLP - nature VS narture Chomski stuff.
